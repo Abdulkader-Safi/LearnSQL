@@ -1,29 +1,33 @@
 {
   "main": {
-    "id": "8bcb4317f80c1ec2",
+    "id": "78f47d26de499684",
     "type": "split",
     "children": [
       {
-        "id": "f5bceff7f1708475",
+        "id": "74b6c486590aae7b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Lesson 1 - Basics/Lesson 1-4 (Select statement).md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "032da6e2429c5fc5",
+    "id": "5f5ed6c9bf1767d7",
     "type": "split",
     "children": [
       {
-        "id": "65658f06390aa3be",
+        "id": "157d60aeda829647",
         "type": "tabs",
         "children": [
           {
-            "id": "aa9b18f6afec5725",
+            "id": "aa9c061956d20f30",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +35,7 @@
             }
           },
           {
-            "id": "6a35480263f9ab6e",
+            "id": "e0d404449d4394c1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,22 +53,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256
+    "width": 300
   },
   "right": {
-    "id": "60526eeafddb99cc",
+    "id": "dc3ae6bfaa6b2acf",
     "type": "split",
     "children": [
       {
-        "id": "287ace7f7d617a42",
+        "id": "09b0d625f98a01b4",
         "type": "tabs",
         "children": [
           {
-            "id": "6cbe2bfed9462dd1",
+            "id": "d77f2d2a63347965",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lesson 1 - Basics/Lesson 1-4 (Select statement).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,14 +87,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f5bceff7f1708475",
+  "active": "74b6c486590aae7b",
   "lastOpenFiles": [
     "Lesson 1 - Basics/Lesson 1-4 (Select statement).md",
-    "Lesson 1 - Basics/Lesson 1-3 (Create statement).md",
-    "Lesson 1 - Basics/Lesson 1-2 (Basic Concepts).md",
-    "Lesson 1 - Basics/test.md",
-    "Lesson 1 - Basics/Lesson 1-1 (What is SQL).md",
-    "README.md",
-    "Untitled.md"
+    "Lesson 1 - Basics/Lesson 1-3 (Create statement).md"
   ]
 }
