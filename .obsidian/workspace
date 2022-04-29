@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Lesson 1 - Basics/Lesson 1-7 (Delete statement).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Lesson 1 - Basics/Lesson 1-7 (Delete statement).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "74b6c486590aae7b",
   "lastOpenFiles": [
+    "Lesson 1 - Basics/Lesson 1-7 (Delete statement).md",
     "README.md",
     "Lesson 1 - Basics/Lesson 1-6 (Update statement).md",
     "Lesson 1 - Basics/Lesson 1-5 (Insert statement).md",

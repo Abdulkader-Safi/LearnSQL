@@ -13,6 +13,7 @@
 4. [[Lesson 1-4 (Select statement)]]
 5. [[Lesson 1-5 (Insert statement)]]
 6. [[Lesson 1-6 (Update statement)]]
+7. [[Lesson 1-7 (Delete statement)]]
 
 
 #### You Can contact me Abdulkader Safi
