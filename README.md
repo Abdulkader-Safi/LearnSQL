@@ -11,6 +11,8 @@
 #### [[Lesson 1-2 (Basic Concepts)]]
 #### [[Lesson 1-3 (Create statement)]]
 #### [[Lesson 1-4 (Select statement)]]
+#### [[Lesson 1-5 (Insert statement)]]
+
 
 
 #### You Can contact me Abdulkader Safi
