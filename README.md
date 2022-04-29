@@ -7,11 +7,11 @@
 
 
 ## Start Here
-#### [[Lesson 1-1 (What is SQL)]]
-#### [[Lesson 1-2 (Basic Concepts)]]
-#### [[Lesson 1-3 (Create statement)]]
-#### [[Lesson 1-4 (Select statement)]]
-#### [[Lesson 1-5 (Insert statement)]]
+1. [[Lesson 1-1 (What is SQL)]]
+2. [[Lesson 1-2 (Basic Concepts)]]
+3. [[Lesson 1-3 (Create statement)]]
+4. [[Lesson 1-4 (Select statement)]]
+5. [[Lesson 1-5 (Insert statement)]]
 
 
 
