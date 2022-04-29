@@ -12,7 +12,7 @@
 3. [[Lesson 1-3 (Create statement)]]
 4. [[Lesson 1-4 (Select statement)]]
 5. [[Lesson 1-5 (Insert statement)]]
-
+6. [[Lesson 1-6 (Update statement)]]
 
 
 #### You Can contact me Abdulkader Safi
